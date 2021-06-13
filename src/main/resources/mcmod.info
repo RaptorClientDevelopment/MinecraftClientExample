@@ -1,0 +1,18 @@
+[
+  {
+    "modid": "modid",
+    "name": "modname",
+    "description": "A Client Example",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "",
+    "updateUrl": "",
+    "authorList": [
+      "ritomg"
+    ],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
